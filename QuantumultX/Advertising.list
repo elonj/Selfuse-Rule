@@ -1,0 +1,417 @@
+# From ConnersHua Date:20191024, git: 3989b14
+# Advertising
+# > General
+host-keyword,adservice,AdBlock
+host-keyword,analytics,AdBlock
+host-keyword,analysis,AdBlock
+
+host-suffix,42trck.com,AdBlock
+host-suffix,51.la,AdBlock
+host-suffix,adcolony.com,AdBlock
+host-suffix,adinfuse.com,AdBlock
+host-suffix,adjust.com,AdBlock
+host-suffix,adjust.io,AdBlock
+host-suffix,admaster.com.cn,AdBlock
+host-suffix,admob.com,AdBlock
+host-suffix,adnxs.com,AdBlock
+host-suffix,adnyg.com,AdBlock
+host-suffix,adsensor.org,AdBlock
+host-suffix,adtarget.tech,AdBlock
+host-suffix,adthor.com,AdBlock
+host-suffix,adwhirl.com,AdBlock
+host-suffix,amazon-adsystem.com,AdBlock
+host-suffix,amobee.com,AdBlock
+host-suffix,analysys.cn,AdBlock
+host-suffix,app-adforce.jp,AdBlock
+host-suffix,appads.com,AdBlock
+host-suffix,appcpi.net,AdBlock
+host-suffix,appier.net,AdBlock
+host-suffix,applift.com,AdBlock
+host-suffix,applovin.com,AdBlock
+host-suffix,applvn.com,AdBlock
+host-suffix,appsflyer.com,AdBlock
+host-suffix,apsalar.com,AdBlock
+host-suffix,apxadtracking.net,AdBlock
+host-suffix,axonix.com,AdBlock
+host-suffix,bayimob.com,AdBlock
+host-suffix,bulldogcpi.com,AdBlock
+host-suffix,clotfun.mobi,AdBlock
+host-suffix,clotfun.online,AdBlock
+host-suffix,cloudmobi.net,AdBlock
+host-suffix,cnzz.com,AdBlock
+host-suffix,ctrmi.com,AdBlock
+host-suffix,flurry.com,AdBlock
+host-suffix,go2cloud.org,AdBlock
+host-suffix,growingio.com,AdBlock
+host-suffix,haloapps.com,AdBlock
+host-suffix,idealads.net,AdBlock
+host-suffix,inmobi.cn,AdBlock
+host-suffix,inmobi.com,AdBlock
+host-suffix,inmobi.net,AdBlock
+host-suffix,inmobicdn.cn,AdBlock
+host-suffix,inmobicdn.net,AdBlock
+host-suffix,inner-active.mobi,AdBlock
+host-suffix,insurads.com,AdBlock
+host-suffix,ironsrc.com,AdBlock
+host-suffix,irs01.com,AdBlock
+host-suffix,iskyworker.com,AdBlock
+host-suffix,juicyads.com,AdBlock
+host-suffix,kochava.com,AdBlock
+host-suffix,leadboltmobile.net,AdBlock
+host-suffix,lenzmx.com,AdBlock
+host-suffix,liveadvert.com,AdBlock
+host-suffix,lnk0.com,AdBlock
+host-suffix,lnk8.cn,AdBlock
+host-suffix,localytics.com,AdBlock
+host-suffix,mdfull.com,AdBlock
+host-suffix,measurementapi.com,AdBlock
+host-suffix,medialytics.com,AdBlock
+host-suffix,meetrics.com,AdBlock
+host-suffix,meetrics.net,AdBlock
+host-suffix,miaozhen.com,AdBlock
+host-suffix,mmstat.com,AdBlock
+host-suffix,moatads.com,AdBlock
+host-suffix,mobclix.com,AdBlock
+host-suffix,mopub.com,AdBlock
+host-suffix,okjhb.xyz,AdBlock
+host-suffix,openx.net,AdBlock
+host-suffix,qchannel01.cn,AdBlock
+host-suffix,rayjump.com,AdBlock
+host-suffix,rubiconproject.com,AdBlock
+host-suffix,scorecardresearch.com,AdBlock
+host-suffix,sdkclick.com,AdBlock
+host-suffix,shuzilm.cn,AdBlock
+host-suffix,smaato.net,AdBlock
+host-suffix,smartadserver.com,AdBlock
+host-suffix,smartnews-ads.com,AdBlock
+host-suffix,supersonic.com,AdBlock
+host-suffix,supersonicads.com,AdBlock
+host-suffix,tagtic.cn,AdBlock
+host-suffix,tanv.com,AdBlock
+host-suffix,tanx.com,AdBlock
+host-suffix,tapjoy.com,AdBlock
+host-suffix,trafficjunky.net,AdBlock
+host-suffix,turn.com,AdBlock
+host-suffix,uri6.com,AdBlock
+host-suffix,vidoomy.com,AdBlock
+host-suffix,voicefive.com,AdBlock
+host-suffix,vungle.com,AdBlock
+host-suffix,wedolook.com,AdBlock
+host-suffix,wshtgame.com,AdBlock
+host-suffix,xdrig.com,AdBlock
+host-suffix,zu08e.cn,AdBlock
+
+host-suffix,ad.daum.net,AdBlock
+host-suffix,track.xiachufang.com,AdBlock
+host,abema-adx.ameba.jp,AdBlock
+host,ad.12306.cn,AdBlock
+host,ad.360in.com,AdBlock
+host,ad.51wnl-cq.com,AdBlock
+host,ad.caiyunapp.com,AdBlock
+host,ad.huajiao.com,AdBlock
+host,ad.hzyoka.com,AdBlock
+host,ad.jiemian.com,AdBlock
+host,ad.qingting.fm,AdBlock
+host,ad.wappalyzer.com,AdBlock
+host,ad-cn.jovcloud.com,AdBlock
+host,adextra.51wnl-cq.com,AdBlock
+host,ads.adadapted.com,AdBlock
+host,ads.daydaycook.com.cn,AdBlock
+host,ads.weilitoutiao.net,AdBlock
+host,adsapi.manhuaren.com,AdBlock
+host,adsdk.dmzj.com,AdBlock
+host,adserver.pandora.com,AdBlock
+host,adui.tg.meitu.com,AdBlock
+host,adv.bandi.so,AdBlock
+host,adxserver.ad.cmvideo.cn,AdBlock
+host,app-ad.variflight.com,AdBlock
+host,applog.mobike.com,AdBlock
+host,appnext.hs.llnwd.net,AdBlock
+host,appnext-a.akamaihd.net,AdBlock
+host,ggs.myzaker.com,AdBlock
+host,gs.getui.com,AdBlock
+host,itad.linetv.tw,AdBlock
+host,ja.chushou.tv,AdBlock
+host,log.b612kaji.com,AdBlock
+host,mads.suning.com,AdBlock
+host,mobileads.msn.com,AdBlock
+host,mopnativeadv.037201.com,AdBlock
+host,nativeadv.dftoutiao.com,AdBlock
+host,sugar.zhihu.com,AdBlock
+host,toots-a.akamaihd.net,AdBlock
+host,track.tiara.daum.net,AdBlock
+host,track.tiara.kakao.com,AdBlock
+host,trackapp.guahao.cn,AdBlock
+host,traffic.mogujie.com,AdBlock
+host,wmlog.meituan.com,AdBlock
+
+# (0~9)
+# > 58 同城
+host,adshow.58.com,AdBlock
+host,track.58.com,AdBlock
+host,tracklog.58.com,AdBlock
+# (A)
+# > Apple
+host-suffix,iadsdk.apple.com,AdBlock
+host-suffix,ads.internal.unity3d.com,AdBlock
+host-suffix,ads.prd.ie.internal.unity3d.com,AdBlock
+host-suffix,unityads.unity3d.com,AdBlock
+# > Alibaba
+host,acs4baichuan.m.taobao.com,AdBlock
+host,adash.m.taobao.com,AdBlock
+host,adash.man.aliyuncs.com,AdBlock
+host,adashbc.ut.taobao.com,AdBlock
+host,adash-c.ut.taobao.com,AdBlock
+host,adashx.m.taobao.com,AdBlock
+host,adashx4yt.m.taobao.com,AdBlock
+host,adashxgc.ut.taobao.com,AdBlock
+host,h-adashx.ut.taobao.com,AdBlock
+host,nbsdk-baichuan.alicdn.com,AdBlock
+host,optimus-ads.amap.com,AdBlock
+host,optimus-ads.amap.com.w.alikunlun.com,AdBlock
+host,tunion-api.m.taobao.com,AdBlock
+# > AutoHome
+host,adproxy.autohome.com.cn,AdBlock
+host,rd.autohome.com.cn,AdBlock
+host,al.autohome.com.cn,AdBlock
+host,applogapi.autohome.com.cn,AdBlock
+# (B)
+# > Baidu
+host-suffix,baidustatic.com,AdBlock
+host-suffix,cpro.baidu.com,AdBlock
+host-suffix,pos.baidu.com,AdBlock
+host,afd.baidu.com,AdBlock
+host,als.baidu.com,AdBlock
+host,duclick.baidu.com,AdBlock
+host,hm.baidu.com,AdBlock
+host,hmma.baidu.com,AdBlock
+host,mobads.baidu.com,AdBlock
+host,mobads-logs.baidu.com,AdBlock
+host,nsclick.baidu.com,AdBlock
+# > ByteDance
+host,ad.toutiao.com,AdBlock
+host,applog.musical.ly,AdBlock
+host,track.toutiao.com,AdBlock
+host,xlog.snssdk.com,AdBlock
+host,xlog-va.byteoversea.com,AdBlock
+# > BitAuto
+host,adx.yiche.com,AdBlock
+host,log.ycapp.yiche.com,AdBlock
+# > 百词斩
+host,advertise.baicizhan.com,AdBlock
+host,advertise.baicizhan.org,AdBlock
+# (C)
+# > CNTV
+host,galaxy.bjcathay.com,AdBlock
+host,mdrecv.app.cntvwb.cn,AdBlock
+host,sdapprecv.app.cntvwb.cn,AdBlock
+host,vdapprecv.app.cntvwb.cn,AdBlock
+# > ChinaNet
+host,ad.k.21cn.com,AdBlock
+host,admarket.21cn.com,AdBlock
+host,adshows.21cn.com,AdBlock
+# > 车来了
+host,atrace.chelaile.net.cn,AdBlock
+host,logs.chelaile.net.cn,AdBlock
+# (G)
+# > Google
+host-suffix,doubleclick.net,AdBlock
+host-suffix,googleadservices.com,AdBlock
+host-suffix,googleadsserving.cn,AdBlock
+host-suffix,googlesyndication.com,AdBlock
+host-suffix,googletagmanager.com,AdBlock
+host-suffix,googletagservices.com,AdBlock
+# (H)
+# > HunanTV
+host-suffix,da.mgtv.com,AdBlock
+host-suffix,da.hunantv.com,AdBlock
+host-suffix,log.hunantv.com,AdBlock
+host,log.v2.hunantv.com,AdBlock
+host,v2.log.hunantv.com,AdBlock
+# > Hupu
+host,ad-goblin.hupu.com,AdBlock
+host,adx.hupu.com,AdBlock
+host,adx-api.hupu.com,AdBlock
+# (I)
+# > iQiyi
+host,ifacelog.iqiyi.com,AdBlock
+host,msg.71.am,AdBlock
+host,msg.qy.net,AdBlock
+host,t7z.cupid.iqiyi.com,AdBlock
+IP-CIDR,101.227.97.240/32,AdBlock
+IP-CIDR,101.227.200.11/32,AdBlock
+IP-CIDR,101.227.200.28/32,AdBlock
+IP-CIDR,124.192.153.42/32,AdBlock
+# > Ifeng
+host-suffix,deliver.ifeng.com,AdBlock
+host,api.newad.ifeng.com,AdBlock
+host,ifengad.3g.ifeng.com,AdBlock
+# (K)
+# > KuGou and Kuwo
+host,adserviceretry.kugou.com,AdBlock
+host,ads.service.kugou.com,AdBlock
+host,adsfile.bssdlbig.kugou.com,AdBlock
+host,g.koowo.com,AdBlock
+host,kgmobilestat.kugou.com,AdBlock
+host,kgmobilestatbak.kugou.com,AdBlock
+host,mobilelog.kugou.com,AdBlock
+host,mobilead.kuwo.cn,AdBlock
+host,rich.kuwo.cn,AdBlock
+# > Kingsoft
+host,ad-stat.ksosoft.com,AdBlock
+host,img.auction-ads.wpscdn.cn,AdBlock
+host,counter.kingsoft.com,AdBlock
+host,counter.ksosoft.com,AdBlock
+host,minfo.wps.cn,AdBlock
+host,mobad.ijinshan.com,AdBlock
+host,ups.ksmobile.net,AdBlock
+host,ws.ksmobile.net,AdBlock
+# (L)
+# > Le
+host-suffix,webp2p.letv.com,AdBlock
+host,ark.letv.com,AdBlock
+host,emma-414870e223.huodonghezi.com,AdBlock
+host,g3.letv.com,AdBlock
+host,n.mark.letv.com,AdBlock
+# > 乐播投屏
+host,ad.hpplay.cn,AdBlock
+host,adeng.hpplay.cn,AdBlock
+host,rp.hpplay.cn,AdBlock
+# (M)
+# > MI
+host-suffix,ad.intl.xiaomi.com,AdBlock
+host-suffix,ad.xiaomi.com,AdBlock
+host-suffix,admob.xiaomi.com,AdBlock
+host-suffix,tracking.miui.com,AdBlock
+host,adv.sec.intl.miui.com,AdBlock
+host,adv.sec.miui.com,AdBlock
+host,data.mistat.xiaomi.com,AdBlock
+host,tracking.intl.miui.com,AdBlock
+# > 墨迹天气
+host,ad.api.moji.com,AdBlock
+host,adlaunch.moji.com,AdBlock
+host,ads.mojicdn.com,AdBlock
+host,v1.log.moji.com,AdBlock
+# (N)
+# > NetEase
+host,ad.bn.netease.com,AdBlock
+host,ad.yixin.im,AdBlock
+host,admusicpic.music.126.net,AdBlock
+host,gorgon.youdao.com,AdBlock
+host,iadmat.nosdn.127.net,AdBlock
+host,iadmusicmat.music.126.net,AdBlock
+host,iadmusicmatvideo.music.126.net,AdBlock
+host,impservice.dictapp.youdao.com,AdBlock
+host,impservice.youdao.com,AdBlock
+host,log.yex.youdao.com,AdBlock
+host,log-yex.youdao.com,AdBlock
+host,n.3g.163.com,AdBlock
+host,nex.163.com,AdBlock
+host,yt-adp.nosdn.127.net,AdBlock
+host,yt-adp.ws.126.net,AdBlock
+# (P)
+# > PPTV
+host,ads.aplus.pptv.com,AdBlock
+host,ads.aplusapi.pptv.com,AdBlock
+host,asimgs.pplive.cn,AdBlock
+host,de.as.pptv.com,AdBlock
+# > Photoable
+host,regist.fotoable.com,AdBlock
+host,cdn.adapi.fotoable.com,AdBlock
+# > PeanutWiFiMpass
+host,adnew.wifi8.com,AdBlock
+host,adfile.wifi8.com,AdBlock
+# (S)
+# > Sina
+host-suffix,beacon.sina.com.cn,AdBlock
+host,adimg.vue.weibo.com,AdBlock
+host,u1.img.mobile.sina.cn,AdBlock
+host,sax.sina.com.cn,AdBlock
+host,saxs.sina.com.cn,AdBlock
+host,saxn.sina.com.cn,AdBlock
+# > Sohu
+host-suffix,ad.sohu.com,AdBlock
+host-suffix,ads.sohu.com,AdBlock
+host-suffix,aty.sohu.com,AdBlock
+host,imp.optaim.com,AdBlock
+host,v2.reachmax.cn,AdBlock
+host,track.sohu.com,AdBlock
+host,hui.sohu.com,AdBlock
+# (T)
+# > Tencent
+host-suffix,beacon.qq.com,AdBlock
+host-suffix,bugly.qq.com,AdBlock
+host-suffix,e.qq.com,AdBlock
+host-suffix,gdt.qq.com,AdBlock
+host-suffix,l.qq.com,AdBlock
+host-suffix,rqd.qq.com,AdBlock
+host,adsmind.tc.qq.com,AdBlock
+host,btrace.qq.com,AdBlock
+host,mtrace.qq.com,AdBlock
+host,oth.eve.mdt.qq.com,AdBlock
+host,pgdt.gtimg.com,AdBlock
+host,pgdt.gtimg.cn,AdBlock
+host,pgdt.ugdtimg.com,AdBlock
+host,pingma.qq.com,AdBlock
+host,pingtcss.qq.com,AdBlock
+host,splashqqlive.gtimg.com,AdBlock
+host,tajs.qq.com,AdBlock
+host,wxsnsdy.wxs.qq.com,AdBlock
+host,wxsnsdythumb.wxs.qq.com,AdBlock
+# > The Paper
+host,admonitor.thepaper.cn,AdBlock
+host,adpai.thepaper.cn,AdBlock
+host,imgadpai.thepaper.cn,AdBlock
+# > Thunder
+host,adsp.xunlei.com,AdBlock
+host,etl.xlmc.sandai.net,AdBlock
+# > 同花顺
+host,adm.10jqka.com.cn,AdBlock
+host,stat.10jqka.com.cn,AdBlock
+# > 太平洋
+host,ad-analysis.pconline.com.cn,AdBlock
+host,iad0ssl.pcauto.com.cn,AdBlock
+host,iad0ssl.pconline.com.cn,AdBlock
+host,imgad0.pcauto.com.cn,AdBlock
+host,imgad0.pconline.com.cn,AdBlock
+host,ivy.pchouse.com.cn,AdBlock
+# (U)
+# > UC
+host,adtrack.ucweb.com,AdBlock
+host,applogios.uc.cn,AdBlock
+host,track.uc.cn,AdBlock
+# > Umeng
+host,alog.umeng.co,AdBlock
+host,alog.umeng.com,AdBlock
+host,alogs.umeng.com,AdBlock
+host,alog.umengcloud.com,AdBlock
+host,alogs.umengcloud.com,AdBlock
+host,ar.umeng.com,AdBlock
+host,plbslog.umeng.com,AdBlock
+host,ulogs.umeng.com,AdBlock
+host,ulogs.umengcloud.com,AdBlock
+# (W)
+# > WiFi 万能钥匙
+host,a.wkanx.com,AdBlock
+host,cwx.lianwangtech.com,AdBlock
+host,c1wx.lianwangtech.com,AdBlock
+# (X)
+# > 喜马拉雅
+host,ad.ximalaya.com,AdBlock
+host,adbs.ximalaya.com,AdBlock
+host,adse.ximalaya.com,AdBlock
+host,adse.wsa.ximalaya.com,AdBlock
+host,adbehavior.wsa.ximalaya.com,AdBlock
+host,adsebs.ximalaya.com,AdBlock
+# > 小红书
+host,apm-track.xiaohongshu.com,AdBlock
+host,t-ads.xiaohongshu.com,AdBlock
+# (Y)
+# > Youku
+host-suffix,atm.youku.com,AdBlock
+host,ad.mobile.youku.com,AdBlock
+host,iyes.youku.com,AdBlock
+# (Z)
+# > ZOL
+host,apppv.zol.com.cn,AdBlock
+host,pvnapp.zol.com.cn,AdBlock
