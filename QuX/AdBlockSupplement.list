@@ -329,3 +329,32 @@ host-suffix,watchinese.com,AdBlock
 host-suffix,wixsite.com,AdBlock
 host-suffix,wujie.net,AdBlock
 host-suffix,wujieliulan.com,AdBlock
+
+## Choler/Surge Adblock.list Date:10/31/2019 git:44a0619
+# 杂项
+host,wa.gtimg.com,AdBlock
+host,e.crashlytics.com,AdBlock
+host,unidesk.alicdn.com,AdBlock
+host,cdn-adphone.wenhua.com.cn,AdBlock
+# 广告联盟
+host,sdk.e.qq.com,AdBlock
+host,mi.gdt.qq.com,AdBlock
+host,net.rayjump.com,AdBlock
+host,report.adview.cn,AdBlock
+# 优酷H5
+host,mf.atm.youku.com,AdBlock
+# 腾讯视频H5
+host,livew.l.qq.com,AdBlock
+# 腾讯新闻
+host,news.l.qq.com,AdBlock
+# 百度地图
+host,map-mobile-opnimg.cdn.bcebos.com,AdBlock
+# 滴滴出行
+host,ct.xiaojukeji.com,AdBlock
+host,gwp.xiaojukeji.com,AdBlock
+# 爱奇艺
+host,static-s.iqiyi.com,AdBlock
+# 搜狐视频
+host,agn.aty.sohu.com,AdBlock
+# 携程
+host,video.c-ctrip.com,AdBlock
