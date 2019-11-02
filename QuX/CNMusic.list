@@ -1,5 +1,5 @@
 
-## QQ Music, Netease Music, MOO Music
+## QQ Music, MOO Music
 host-suffix,conf.voice.qcloud.com,direct
 host-suffix,hd2.3g.qq.com,direct
 host-suffix,szmg.qq.com,direct
@@ -126,7 +126,7 @@ ip-cidr,123.126.99.57/32,CNMusic
 ip-cidr,123.126.99.39/32,CNMusic
 ip-cidr,220.181.154.137/32,CNMusic
 
-# > Self Add for QQ Music & Netease Music
+# > Self Add for QQ Music
 ip-cidr,58.250.137.120/32,CNMusic
 ip-cidr,182.254.88.145/32,CNMusic
 ip-cidr,140.207.123.197/32,CNMusic
@@ -141,58 +141,3 @@ user-agent,MOO*,CNMusic
 ip-cidr,134.175.75.24/32,CNMusic
 #user-agent,QQMusic*,CNMusic
 #user-agent,*QQMusic*,CNMusic
-
-host-keyword,music.126.net,direct
-host-suffix,p1.music.126.net,direct
-host-suffix,p2.music.126.net,direct
-host-suffix,p3.music.126.net,direct
-host-suffix,p4.music.126.net,direct
-host-suffix,dongjian.hz.netease.com,direct
-host-suffix,ar.hz.netease.com,direct
-host-suffix,crash.163.com,direct
-host-suffix,ac.dun.163yun.com,direct
-host-suffix,nstool.netease.com,direct
-host-suffix,mam.netease.com,direct
-host-suffix,api.iplay.163.com,direct
-host-suffix,m1.music.126.net,direct
-host-suffix,m2.music.126.net,direct
-host-suffix,m3.music.126.net,direct
-host-suffix,m4.music.126.net,direct
-host-suffix,m5.music.126.net,direct
-host-suffix,m6.music.126.net,direct
-host-suffix,m7.music.126.net,direct
-host-suffix,m8.music.126.net,direct
-host-suffix,m9.music.126.net,direct
-host-suffix,m10.music.126.net,direct
-host-suffix,m11.music.126.net,direct
-host-suffix,m1c.music.126.net,direct
-host-suffix,m2c.music.126.net,direct
-host-suffix,m3c.music.126.net,direct
-host-suffix,m4c.music.126.net,direct
-host-suffix,m5c.music.126.net,direct
-host-suffix,m6c.music.126.net,direct
-host-suffix,m7c.music.126.net,direct
-host-suffix,m8c.music.126.net,direct
-host-suffix,m9c.music.126.net,direct
-host-suffix,m10c.music.126.net,direct
-host-suffix,m11c.music.126.net,direct
-ip-cidr,59.111.179.214/32,direct
-ip-cidr,59.111.181.60/32,CNMusic
-ip-cidr,59.111.179.213/32,direct
-ip-cidr,59.111.181.35/32,direct
-ip-cidr,103.126.92.132/32,direct
-ip-cidr,103.126.92.133/32,CNMusic
-ip-cidr,223.252.199.67/32,direct
-ip-cidr,115.236.118.33/32,direct
-ip-cidr,59.111.21.14/32,direct
-ip-cidr,223.252.199.10/32,CNMusic
-ip-cidr,59.111.160.195/32,CNMusic
-ip-cidr,223.252.199.66/32,CNMusic
-ip-cidr,223.252.199.69/32,CNMusic
-host-suffix,music.163.com,CNMusic
-user-agent,NeteaseMusic*,CNMusic
-user-agent,NeteaseMusic**,CNMusic
-user-agent,网易云音乐*,CNMusic
-user-agent,网易云音乐**,CNMusic
-user-agent,%E7%BD%91%E6%98%93%E4%BA%91%E9%9F%B3%E4%B9%90*,CNMusic
-user-agent,%E7%BD%91%E6%98%93%E4%BA%91%E9%9F%B3%E4%B9%90**,CNMusic
