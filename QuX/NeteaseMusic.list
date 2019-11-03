@@ -40,36 +40,37 @@ host,iadmusicmatvideo.music.126.net,AdBlock
 
 # Unblock Netease Music Self
 ip-cidr,59.111.179.214/32,direct
-#ip-cidr,59.111.181.60/32,CNMusic
+ip-cidr,59.111.181.60/32,CNMusic
 ip-cidr,59.111.179.213/32,direct
-#ip-cidr,59.111.181.35/32,direct
-#ip-cidr,103.126.92.132/32,direct
-#ip-cidr,103.126.92.133/32,CNMusic
+ip-cidr,59.111.181.35/32,direct
+ip-cidr,103.126.92.132/32,direct
+ip-cidr,103.126.92.133/32,CNMusic
 ip-cidr,223.252.199.67/32,direct
-#ip-cidr,115.236.118.33/32,direct
+ip-cidr,115.236.118.33/32,direct
 ip-cidr,59.111.21.14/32,direct
 ip-cidr,223.252.199.10/32,CNMusic
-#ip-cidr,59.111.160.195/32,CNMusic
-#ip-cidr,223.252.199.66/32,CNMusic
+ip-cidr,59.111.160.195/32,CNMusic
+ip-cidr,223.252.199.66/32,CNMusic
 ip-cidr,223.252.199.69/32,CNMusic
 
 # Unblock Netease Music
-ip-cidr,39.105.63.80/32,CNMusic
-ip-cidr,47.100.127.239/32,CNMusic
-ip-cidr,59.111.160.195/32,CNMusic
-ip-cidr,59.111.160.197/32,CNMusic
-ip-cidr,59.111.181.35/32,CNMusic
-ip-cidr,59.111.181.38/32,CNMusic
-ip-cidr,59.111.181.60/32,CNMusic
-ip-cidr,101.71.154.241/32,CNMusic
-ip-cidr,103.126.92.132/32,CNMusic
-ip-cidr,103.126.92.133/32,CNMusic
-ip-cidr,112.13.119.17/32,CNMusic
-ip-cidr,115.236.118.33/32,CNMusic
-ip-cidr,118.24.63.156/32,CNMusic
-ip-cidr,193.112.159.225/32,CNMusic
-ip-cidr,223.252.199.66/32,CNMusic
-ip-cidr,223.252.199.67/32,CNMusic
+# ip-cidr,39.105.63.80/32,CNMusic
+# ip-cidr,47.100.127.239/32,CNMusic
+# ip-cidr,59.111.160.195/32,CNMusic
+# ip-cidr,59.111.160.197/32,CNMusic
+# ip-cidr,59.111.181.35/32,CNMusic
+# ip-cidr,59.111.181.38/32,CNMusic
+# ip-cidr,59.111.181.60/32,CNMusic
+# ip-cidr,101.71.154.241/32,CNMusic
+# ip-cidr,103.126.92.132/32,CNMusic
+# ip-cidr,103.126.92.133/32,CNMusic
+# ip-cidr,112.13.119.17/32,CNMusic
+# ip-cidr,115.236.118.33/32,CNMusic
+# ip-cidr,118.24.63.156/32,CNMusic
+# ip-cidr,193.112.159.225/32,CNMusic
+# ip-cidr,223.252.199.66/32,CNMusic
+# ip-cidr,223.252.199.67/32,CNMusic
+
 host-suffix,music.163.com,CNMusic
 user-agent,NeteaseMusic*,CNMusic
 user-agent,NeteaseMusic**,CNMusic
