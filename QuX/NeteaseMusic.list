@@ -31,6 +31,9 @@ host-suffix,m8c.music.126.net,direct
 host-suffix,m9c.music.126.net,direct
 host-suffix,m10c.music.126.net,direct
 host-suffix,m11c.music.126.net,direct
+host-suffix,m801c.music.126.net,direct
+host-suffix,music.126.net,direct
+host-keyword,music.126.net,direct
 
 # Advertising
 host,admusicpic.music.126.net,AdBlock
