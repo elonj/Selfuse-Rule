@@ -1,0 +1,50 @@
+# From ConnersHua -> BacktoCN.list 20191226
+# (Video)
+# AcFun
+USER-AGENT,AcFun*,CNVideo
+DOMAIN-SUFFIX,acfun.cn,CNVideo
+DOMAIN-SUFFIX,acfun.com,CNVideo
+DOMAIN-SUFFIX,aixifan.com,CNVideo
+# > bilibili
+USER-AGENT,bili-universal,CNVideo
+USER-AGENT,Bilibili*,CNVideo
+DOMAIN-SUFFIX,acgvideo.com,CNVideo
+DOMAIN-SUFFIX,bilibili.com,CNVideo
+DOMAIN-SUFFIX,hdslb.com,CNVideo
+# > HunanTV
+USER-AGENT,MGTV*,CNVideo
+DOMAIN-SUFFIX,hitv.com,CNVideo
+DOMAIN-SUFFIX,hunantv.com,CNVideo
+DOMAIN-SUFFIX,mgtv.com,CNVideo
+# > Migu
+USER-AGENT,MiguVideo*,CNVideo
+USER-AGENT,%E5%92%AA%E5%92%95%E8%A7%86%E9%A2%91,CNVideo
+DOMAIN-SUFFIX,cmvideo.cn,CNVideo
+DOMAIN-SUFFIX,migu.cn,CNVideo
+DOMAIN-SUFFIX,miguvideo.com,CNVideo
+# > iQiyi
+USER-AGENT,iQiYi*,CNVideo
+USER-AGENT,PPStream*,CNVideo
+USER-AGENT,QIYI*,CNVideo
+USER-AGENT,QYPlayer*,CNVideo
+DOMAIN-SUFFIX,iqiyi.com,CNVideo
+DOMAIN-SUFFIX,iqiyipic.com,CNVideo
+DOMAIN-SUFFIX,qy.net,CNVideo
+DOMAIN-SUFFIX,71.am,CNVideo
+# > Sohu
+DOMAIN-SUFFIX,56.com,CNVideo
+DOMAIN-SUFFIX,sohu.com,CNVideo
+DOMAIN-SUFFIX,sohu.com.cn,CNVideo
+DOMAIN-SUFFIX,itc.cn,CNVideo
+DOMAIN-SUFFIX,v-56.com,CNVideo
+# > Tencent
+USER-AGENT,live4iphone*,CNVideo
+USER-AGENT,qqlive4iphone*,CNVideo
+USER-AGENT,TencentMidasConnect*,CNVideo
+DOMAIN-SUFFIX,video.qq.com,CNVideo
+# > Youku
+USER-AGENT,Youku*,CNVideo
+USER-AGENT,%E4%BC%98%E9%85%B7*,CNVideo
+DOMAIN-SUFFIX,soku.com,CNVideo
+DOMAIN-SUFFIX,youku.com,CNVideo
+DOMAIN-SUFFIX,ykimg.com,CNVideo
