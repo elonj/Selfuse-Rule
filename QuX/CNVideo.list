@@ -28,7 +28,8 @@ USER-AGENT,PPStream*,CNVideo
 USER-AGENT,QIYI*,CNVideo
 USER-AGENT,QYPlayer*,CNVideo
 DOMAIN-SUFFIX,iqiyi.com,CNVideo
-DOMAIN-SUFFIX,iqiyipic.com,CNVideo
+#DOMAIN-SUFFIX,iqiyipic.com,CNVideo
+DOMAIN-SUFFIX,www.iqiyipic.com,CNVideo
 DOMAIN-SUFFIX,qy.net,CNVideo
 DOMAIN-SUFFIX,71.am,CNVideo
 # > Sohu
