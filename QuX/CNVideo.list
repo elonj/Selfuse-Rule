@@ -8,7 +8,7 @@ DOMAIN-SUFFIX,aixifan.com,CNVideo
 # > bilibili
 USER-AGENT,bili-universal,CNVideo
 USER-AGENT,Bilibili*,CNVideo
-DOMAIN-SUFFIX,acgvideo.com,CNVideo
+#DOMAIN-SUFFIX,acgvideo.com,CNVideo
 DOMAIN-SUFFIX,bilibili.com,CNVideo
 DOMAIN-SUFFIX,hdslb.com,CNVideo
 # > HunanTV
