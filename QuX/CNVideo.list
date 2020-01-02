@@ -10,7 +10,7 @@ USER-AGENT,bili-universal,CNVideo
 USER-AGENT,Bilibili*,CNVideo
 #DOMAIN-SUFFIX,acgvideo.com,CNVideo
 DOMAIN-SUFFIX,bilibili.com,CNVideo
-DOMAIN-SUFFIX,hdslb.com,CNVideo
+#DOMAIN-SUFFIX,hdslb.com,CNVideo
 # > HunanTV
 USER-AGENT,MGTV*,CNVideo
 DOMAIN-SUFFIX,hitv.com,CNVideo
