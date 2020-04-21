@@ -2,7 +2,7 @@
 # Blocking ads
 #
 # Fetch the latest version of this file:
-# https://raw.githubusercontent.com/AdAway/adaway.github.io/master/hosts.txt
+# https://raw.githubusercontent.com/elonj/Selfuse-Rule/master/AdguardHome/Adhostslist.txt
 #
 
 # > REJECT ADS
