@@ -884,7 +884,7 @@ host-suffix,ad.dedecms.com,AdBlock
 host-suffix,ad.digitimes.com.tw,AdBlock
 host-suffix,ad.directmirror.com,AdBlock
 host-suffix,ad.dokrmob.com,AdBlock
-host-suffix,ad.doubanio.com,AdBlock
+# host-suffix,ad.doubanio.com,AdBlock
 host-suffix,ad.doubleclick.net,AdBlock
 host-suffix,ad.download.cnet.com,AdBlock
 host-suffix,ad.dqwjzm.com,AdBlock
@@ -3290,7 +3290,7 @@ host-suffix,epochtimes.org,AdBlock
 host-suffix,epochweekly.com,AdBlock
 host-suffix,epowernetworktrackerimages.s3.amazonaws.com,AdBlock
 host-suffix,er.dlhygj.com,AdBlock
-host-suffix,erebor.douban.com,AdBlock
+# host-suffix,erebor.douban.com,AdBlock
 host-suffix,ereg.adobe.com,AdBlock
 host-suffix,ereg.wip3.adobe.com,AdBlock
 host-suffix,ers.baidu.com,AdBlock
