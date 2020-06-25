@@ -11,3 +11,6 @@
 @@||q.nfmovies.com^*
 @@||q.nfmovies.com/hls/
 @@||cdn.bootcss.com^$domain=www.nfmovies.com|nfmovies.com
+@@||cdn.bootcss.com^*
+@@||zz.bdstatic.com^*
+@@||s96.cnzz.com^*
