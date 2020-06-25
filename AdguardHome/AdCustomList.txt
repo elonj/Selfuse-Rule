@@ -1,0 +1,11 @@
+! -----------------------www.nfmovies.com-----------------------!
+@@||nfmovies.com^*
+@@||googletagmanager.com/gtag/js?id=$domain=www.nfmovies.com|nfmovies.com
+@@||bdstatic.com^$domain=www.nfmovies.com|nfmovies.com
+@@||cnzz.com/z_stat.php?id=$domain=www.nfmovies.com|nfmovies.com
+@@||s96.cnzz.com^$domain=www.nfmovies.com|nfmovies.com
+@@||jx.nfmovies.com/hls.min.js
+@@||jx.nfmovies.com^*
+@@||q.nfmovies.com^*
+@@||q.nfmovies.com/hls/
+@@||cdn.bootcss.com^$domain=www.nfmovies.com|nfmovies.com
