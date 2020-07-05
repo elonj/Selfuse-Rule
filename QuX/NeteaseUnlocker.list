@@ -1,14 +1,34 @@
 ##### 网易云解锁规则 ####
 ##### 网易云音乐解锁相关域名规则 #####
-HOST,api.iplay.163.com,NeteaseUnlocker
-HOST,apm3.music.163.com,NeteaseUnlocker
-HOST,apm.music.163.com,NeteaseUnlocker
+## DOMAIN-SUFFIX,music.126.net,DIRECT
+## DOMAIN-SUFFIX,126.net,DIRECT
+##### 通用规则 #####
+# DOMAIN-SUFFIX,music.163.com,NeteaseUnlocker
+# DOMAIN-SUFFIX,api.iplay.163.com,NeteaseUnlocker
+# DOMAIN-SUFFIX,apm.music.163.com,NeteaseUnlocker
+# DOMAIN-SUFFIX,apm3.music.163.com,NeteaseUnlocker
+# DOMAIN-SUFFIX,interface.music.163.com,NeteaseUnlocker
+# DOMAIN-SUFFIX,interface3.music.163.com,NeteaseUnlocker
+# DOMAIN-SUFFIX,mam.netease.com,NeteaseUnlocker
+# DOMAIN-SUFFIX,hz.netease.com,NeteaseUnlocker
+##### 无法捕获的规则 #####
+# USER-AGENT,%E7%BD%91%E6%98%93%E4%BA%91%E9%9F%B3%E4%B9%90*,direct
+# USER-AGENT,NeteaseMusic*,NeteaseUnlocker
+##### 网易云解锁规则 ####
+
+
+# 20200705
+HOST-SUFFIX,music.126.net,DIRECT
+
+# HOST,api.iplay.163.com,NeteaseUnlocker
+# HOST,apm3.music.163.com,NeteaseUnlocker
+# HOST,apm.music.163.com,NeteaseUnlocker
 HOST,interface3.music.163.com,NeteaseUnlocker
 HOST,interface.music.163.com,NeteaseUnlocker
 HOST,music.163.com,NeteaseUnlocker
 
 # Netease Music Advertising
-HOST,admusicpic.music.126.net,REJECT
-HOST,iadmat.nosdn.127.net,REJECT
-HOST,iadmusicmat.music.126.net,REJECT
-HOST,iadmusicmatvideo.music.126.net,REJECT
+HOST,admusicpic.music.126.net,Adblock
+HOST,iadmat.nosdn.127.net, Adblock
+HOST,iadmusicmat.music.126.net, Adblock
+HOST,iadmusicmatvideo.music.126.net, Adblock
