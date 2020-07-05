@@ -28,7 +28,7 @@ HOST,interface.music.163.com,NeteaseUnlocker
 HOST,music.163.com,NeteaseUnlocker
 
 # Netease Music Advertising
-HOST,admusicpic.music.126.net,Adblock
-HOST,iadmat.nosdn.127.net, Adblock
-HOST,iadmusicmat.music.126.net, Adblock
-HOST,iadmusicmatvideo.music.126.net, Adblock
+HOST,admusicpic.music.126.net,AdBlock
+HOST,iadmat.nosdn.127.net, AdBlock
+HOST,iadmusicmat.music.126.net, AdBlock
+HOST,iadmusicmatvideo.music.126.net, AdBlock
