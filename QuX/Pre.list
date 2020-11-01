@@ -23,10 +23,3 @@ user-agent,Maps*,DirOrPro
 #host,api.smoot.apple.cn,direct
 user-agent,passd*,DirOrPro
 user-agent,Wallet*,DirOrPro
-
-## Rakuten
-host-suffix,api.branch.io,DIRECT
-host-suffix,ad.doubleclick.net,DIRECT
-host-suffix,adservice.google.com,DIRECT
-host-suffix,click.linksynergy.com,DIRECT
-host-suffix,apiservices.krxd.net,DIRECT
