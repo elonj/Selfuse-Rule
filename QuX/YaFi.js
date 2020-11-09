@@ -1,5 +1,5 @@
 let body = $response.body
 body=JSON.parse(body)
-delete body['adUnits']
+delete body['nativeAdInfo']
 body=JSON.stringify(body)
 $done({body})
