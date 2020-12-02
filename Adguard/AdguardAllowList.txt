@@ -1,0 +1,7 @@
+! Title: Adguard Allow List
+@@||ads-serve.brave.com^$important
+@@||brave.com^$important
+@@||edge.activity.windows.com^$important
+@@||edge.microsoft.com^$important
+@@||login.vivaldi.net^$important
+@@||allstate.com^$important
