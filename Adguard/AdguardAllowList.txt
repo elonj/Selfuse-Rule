@@ -5,3 +5,5 @@
 @@||edge.microsoft.com^$important
 @@||login.vivaldi.net^$important
 @@||allstate.com^$important
+@@||www.asiaon.top^$important,document
+@@||rapidgator.net^$important,document
