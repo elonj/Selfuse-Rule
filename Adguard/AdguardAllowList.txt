@@ -1,9 +1,13 @@
 ! Title: Adguard Allow List
-@@||ads-serve.brave.com^$important
-@@||brave.com^$important
-@@||edge.activity.windows.com^$important
-@@||edge.microsoft.com^$important
-@@||login.vivaldi.net^$important
-@@||allstate.com^$important
+@@||ads-serve.brave.com^$important,document
+@@||brave.com^$important,document
+@@||edge.activity.windows.com^$important,document
+@@||edge.microsoft.com^$important,document
+@@||login.vivaldi.net^$important,document
+@@||allstate.com^$important,document
 @@||www.asiaon.top^$important,document
 @@||rapidgator.net^$important,document
+@@||192.168.0.*^$important,document
+@@||192.168.5.*^$important,document
+@@||twabcd.ga^$important,document
+@@||twabc.ga^$important,document
