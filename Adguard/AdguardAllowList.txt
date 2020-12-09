@@ -9,5 +9,6 @@
 @@||rapidgator.net^$important
 @@||192.168.0.*^$important,document
 @@||192.168.5.*^$important,document
-@@||twabcd.ga^$important
-@@||twabc.ga^$important
+@@||twabcd.ga^$important,document
+@@||twabc.ga^$important,document
+@@||myweb-page0.appspot.com^$important,document
