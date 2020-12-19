@@ -14,3 +14,4 @@
 @@||myweb-page0.appspot.com^$important,document
 @@||www.567pan.com^$important,document
 @@||asiaon.top^$important,document
+@@||www.rideboreal.com^$important,document
