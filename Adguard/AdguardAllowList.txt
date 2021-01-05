@@ -15,3 +15,5 @@
 @@||www.567pan.com^$important,document
 @@||asiaon.top^$important,document
 @@||www.rideboreal.com^$important,document
+@@||www.kufile.net^$important,document
+@@||www.linkedin.com^$important,document
