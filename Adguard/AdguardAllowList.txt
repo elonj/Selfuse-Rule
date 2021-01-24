@@ -17,3 +17,13 @@
 @@||www.rideboreal.com^$important,document
 @@||www.kufile.net^$important,document
 @@||www.linkedin.com^$important,document
+@@||b-ok.cc^$important,document
+@@||mov18plus.com^$important,document
+@@||www5.javmost.com^$important,document
+@@||www.lilysilk.com^$important,document
+@@||www.nfmovies.com^$important,document
+@@||chtbl.com^$important,document
+@@||www.vitalchek.com^$important,document
+@@||netflav.com^$important,document
+@@||streamsb.net^$important,document
+@@||streamsb.com^$important,document
