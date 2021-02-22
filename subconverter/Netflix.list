@@ -1,3 +1,4 @@
+# https://raw.githubusercontent.com/DivineEngine/Profiles/master/Clash/RuleSet/StreamingMedia/Video/Netflix.yaml
 # > Netflix
 PROCESS-NAME,com.netflix.mediaclient
 DOMAIN-SUFFIX,netflix.com
