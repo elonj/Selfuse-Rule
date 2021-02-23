@@ -1,0 +1,14 @@
+port: 7890
+socks-port: 7891
+redir-port: 7892
+allow-lan: false
+mode: Rule
+log-level: warning
+external-controller: '0.0.0.0:9090'
+secret: ''
+
+proxies: ~
+
+proxy-groups: ~
+
+rules: ~
