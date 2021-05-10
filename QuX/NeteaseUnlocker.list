@@ -45,7 +45,7 @@ HOST-SUFFIX,music.126.net,DIRECT
 # Netease Music
 HOST,api.iplay.163.com,NeteaseUnlocker
 HOST,apm3.music.163.com,NeteaseUnlocker
-OST,apm.music.163.com,NeteaseUnlocker
+HOST,apm.music.163.com,NeteaseUnlocker
 HOST,interface3.music.163.com,NeteaseUnlocker
 HOST,interface.music.163.com,NeteaseUnlocker
 HOST,music.163.com,NeteaseUnlocker
