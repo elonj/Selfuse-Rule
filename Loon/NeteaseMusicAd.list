@@ -3,7 +3,7 @@
 # Project: https://github.com/DesperadoJ/Rules-for-UnblockNeteaseMusic
 
 # Netease Music Advertising
-host,admusicpic.music.126.net,NeteaseMusicAd
-host,iadmat.nosdn.127.net,NeteaseMusicAd
-host,iadmusicmat.music.126.net,NeteaseMusicAd
-host,iadmusicmatvideo.music.126.net,NeteaseMusicAd
+DOMAIN,admusicpic.music.126.net,NeteaseMusicAd
+DOMAIN,iadmat.nosdn.127.net,NeteaseMusicAd
+DOMAIN,iadmusicmat.music.126.net,NeteaseMusicAd
+DOMAIN,iadmusicmatvideo.music.126.net,NeteaseMusicAd
