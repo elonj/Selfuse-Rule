@@ -1,0 +1,9 @@
+# Date: 2022-01-28
+# URL:     https://raw.githubusercontent.com/DesperadoJ/Rules-for-UnblockNeteaseMusic/master/QuantumultX/quantumult-filter.txt
+# Project: https://github.com/DesperadoJ/Rules-for-UnblockNeteaseMusic
+
+# Netease Music Advertising
+host,admusicpic.music.126.net,NeteaseMusicAd
+host,iadmat.nosdn.127.net,NeteaseMusicAd
+host,iadmusicmat.music.126.net,NeteaseMusicAd
+host,iadmusicmatvideo.music.126.net,NeteaseMusicAd
