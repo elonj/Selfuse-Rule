@@ -1,0 +1,9 @@
+## From: https://raw.githubusercontent.com/Redeembynight/own/main/QuantumultX/script/collect_crack 2022/02/24
+
+# api.revenuecat.com
+#VSCO
+[Script]
+http-response ^https:\/\/api\.revenuecat\.com\/v\d\/subscribers\/\d+$ requires-body=1,script-path=https://raw.githubusercontent.com/Redeembynight/own/main/QuantumultX/script/unlock/vsco.js,tag=VSCO_Unlock
+
+[MITM]
+hostname = api.revenuecat.com
