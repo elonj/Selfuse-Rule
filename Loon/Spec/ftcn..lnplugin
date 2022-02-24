@@ -1,0 +1,13 @@
+## From: https://raw.githubusercontent.com/Redeembynight/own/main/QuantumultX/script/collect_crack 2022/02/24
+
+# d1025gvspu57dc.cloudfront.net, creatives.ftacademy.cn
+# FT中文网（金融时报）VIP&去开屏广告(by litieyin)
+[URL Rewrite]
+^https:\//d1025gvspu57dc.cloudfront.net\/log\/new_log.php - reject
+^https:\//creatives\.ftacademy\.cn\/ads - reject
+
+[Script]
+http-response ^https:\//d1025gvspu57dc.cloudfront.net\/index.php\/jsapi\/paywall requires-body=1,script-path=https://raw.githubusercontent.com/litieyin/AD_VIP/main/Script/ft.js,tag=FT中文网_Unlock
+
+[MITM]
+hostname = d1025gvspu57dc.cloudfront.net, creatives.ftacademy.cn
