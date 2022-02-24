@@ -2,8 +2,19 @@
 
 # api.revenuecat.com
 #VSCO
+#[Script]
+#http-response ^https:\/\/api\.revenuecat\.com\/v\d\/subscribers\/\d+$ requires-body=1,script-path=https://raw.githubusercontent.com/Redeembynight/own/main/QuantumultX/script/unlock/vsco.js,tag=VSCO_Unlock
+
+#[MITM]
+# hostname = api.revenuecat.com
+
+
+
+## From https://raw.githubusercontent.com/litieyin/AD_VIP/main/vip_ad.conf
+
+# VSCO滤镜VIP
 [Script]
-http-response ^https:\/\/api\.revenuecat\.com\/v\d\/subscribers\/\d+$ requires-body=1,script-path=https://raw.githubusercontent.com/Redeembynight/own/main/QuantumultX/script/unlock/vsco.js,tag=VSCO_Unlock
+http-response ^https:\/\/(api\.revenuecat\.com\/v\d\/subscribers|vsco\.co\/api\/subscriptions\/\d\.\d\/user-subscriptions)\/ requires-body=1,script-path=https://raw.githubusercontent.com/litieyin/AD_VIP/main/Script/vsco.js,tag=VSCO_Unlock
 
 [MITM]
-hostname = api.revenuecat.com
+hostname = vsco.co, api.revenuecat.com
