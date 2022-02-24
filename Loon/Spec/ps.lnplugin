@@ -1,0 +1,8 @@
+## From: https://raw.githubusercontent.com/Redeembynight/own/main/QuantumultX/script/collect_crack 2022/02/24
+
+#Photshop&PSexpress
+[Script]
+http-response ^https:\/\/lcs-mobile-cops\.adobe\.io\/mobile_profile requires-body=1,script-path=https://raw.githubusercontent.com/langkhach270389/Surge-LK/main/scripts/langkhach/photoshop.js,tag=Photshop&PSexpress_Unlock
+
+[MITM]
+hostname = lcs-mobile-cops.adobe.io
