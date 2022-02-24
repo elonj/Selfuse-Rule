@@ -1,0 +1,8 @@
+## From: https://raw.githubusercontent.com/Redeembynight/own/main/QuantumultX/script/collect_crack 2022/02/24
+
+#Lightroom
+[Script]
+http-response ^https:\/\/photos\.adobe\.io\/v2\/accounts* requires-body=1,script-path=https://raw.githubusercontent.com/langkhach270389/Surge-LK/main/scripts/langkhach/lightroom.js,tag=Lightroom_Unlock
+
+[MITM]
+hostname = photos.adobe.io
