@@ -1,0 +1,9 @@
+## From: https://raw.githubusercontent.com/Redeembynight/own/main/QuantumultX/script/collect_crack 2022/02/24
+
+# server.yoyiapp.com
+# FIMO解锁全部胶卷(Hausd0rff)
+[Script]
+http-response ^https?:\/\/server\.yoyiapp\.com\/fimo-user\/apple\/certificate$ requires-body=1,script-path=https://raw.githubusercontent.com/yqc007/QuantumultX/master/FiMoCameraProCrack.js,tag=FIMO_Unlock
+
+[MITM]
+hostname = server.yoyiapp.com
