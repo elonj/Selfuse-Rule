@@ -1,0 +1,7 @@
+# Darkroom Unlock annual subscriptions （by LTribe）from https://raw.githubusercontent.com/LTribeSkyx/Script/master/Darkroom.js
+
+[Script]
+http-response ^https?:\/\/api\.revenuecat\.com\/v\d\/(receipts|subscribers*) requires-body=1,script-path=https://raw.githubusercontent.com/LTribeSkyx/Script/master/Darkroom.js
+
+[MITM]
+hostname = api.revenuecat.com
