@@ -1,2 +1,14 @@
 #!name=Kindle Fonts Customize
-#!desc=自定义Kindel字体
+#!desc=自定义Kindel字体: 圆体替换成LxgwWenKai-Screen
+
+[URL Rewrite]
+
+; ^https://s3.cn-north-1.amazonaws.com.cn/maes-appexpan-protected-prod/STFontSC/STSongSC.ttf.+ https://example.com/STSongSC.ttf 302
+
+# ^https://s3.cn-north-1.amazonaws.com.cn/maes-appexpan-protected-prod/STFontSC/STKaitiSC.ttf.+
+# ^https://s3.cn-north-1.amazonaws.com.cn/maes-appexpan-protected-prod/STFontSC/STHeitiSC.ttf.+
+^https://s3.cn-north-1.amazonaws.com.cn/maes-appexpan-protected-prod/STFontSC/STYuanMedium-2018-02-16.ttf.+ 302 https://raw.githubusercontent.com/elonj/Selfuse-Rule/master/Loon/iOS-Kindle-Font/LXGWWenKaiScreen.ttf
+
+[MITM]
+
+hostname = s3.cn-north-1.amazonaws.com.cn
