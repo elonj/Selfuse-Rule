@@ -7,7 +7,7 @@
 
 # ^https://s3.cn-north-1.amazonaws.com.cn/maes-appexpan-protected-prod/STFontSC/STKaitiSC.ttf.+
 # ^https://s3.cn-north-1.amazonaws.com.cn/maes-appexpan-protected-prod/STFontSC/STHeitiSC.ttf.+
-^https://s3.cn-north-1.amazonaws.com.cn/maes-appexpan-protected-prod/STFontSC/STYuanMedium-2018-02-16.ttf.+ 302 https://raw.githubusercontent.com/elonj/Selfuse-Rule/master/Loon/iOS-Kindle-Font/LXGWWenKaiScreen.ttf
+^https://s3.cn-north-1.amazonaws.com.cn/maes-appexpan-protected-prod/STFontSC/STYuanMedium-2018-02-16.ttf.+ 302 https://raw.githubusercontent.com/elonj/Selfuse-Rule/master/Loon/iOS-Kindle-Font/STYuanMedium-2018-02-16.ttf
 
 [MITM]
 
