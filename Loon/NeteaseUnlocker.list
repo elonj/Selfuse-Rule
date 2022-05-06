@@ -1,4 +1,4 @@
-# Date: 2022-01-28
+# Date: 2022-05-06
 # URL:     https://raw.githubusercontent.com/DesperadoJ/Rules-for-UnblockNeteaseMusic/master/QuantumultX/quantumult-filter.txt
 # Project: https://github.com/DesperadoJ/Rules-for-UnblockNeteaseMusic
 
@@ -12,10 +12,12 @@ DOMAIN,interface.music.163.com,NeteaseUnlocker
 DOMAIN,music.163.com,NeteaseUnlocker
 IP-CIDR,39.105.63.80/32,NeteaseUnlocker
 IP-CIDR,39.105.175.128/32,NeteaseUnlocker
+IP-CIDR,45.254.48.1/32,NeteaseUnlocker
 IP-CIDR,47.100.127.239/32,NeteaseUnlocker
 IP-CIDR,59.111.19.33/32,NeteaseUnlocker
 IP-CIDR,59.111.160.195/32,NeteaseUnlocker
 IP-CIDR,59.111.160.197/32,NeteaseUnlocker
+IP-CIDR,101.71.154.241/32,NeteaseUnlocker
 IP-CIDR,103.126.92.132/32,NeteaseUnlocker
 IP-CIDR,103.126.92.133/32,NeteaseUnlocker
 IP-CIDR,112.13.119.18/32,NeteaseUnlocker
