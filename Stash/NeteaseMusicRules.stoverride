@@ -1,0 +1,26 @@
+name: 网易云音乐解锁Rules(Self)
+desc: 解锁网易云音乐解锁(Self)
+
+rule-providers:
+  NeteaseMusicDomain:
+    type: http
+    behavior: domain
+    url: "https://raw.githubusercontent.com/elonj/Selfuse-Rule/master/Stash/NeteaseMusicRules/NeteaseMusicDomain.txt"
+    path: ./ruleset/NeteaseMusicDomain.txt
+    interval: 86400
+  NeteaseMusicIPcidr:
+    type: http
+    behavior: ipcidr
+    url: "https://raw.githubusercontent.com/elonj/Selfuse-Rule/master/Stash/NeteaseMusicRules/NeteaseMusicIPcidr.txt"
+    path: ./ruleset/NeteaseMusicIPcidr.txt
+    interval: 86400
+
+rules:
+  # Netease Music Advertising
+  - DOMAIN,admusicpic.music.126.net,REJECT
+  - DOMAIN,iadmat.nosdn.127.net,REJECT
+  - DOMAIN,iadmusicmat.music.126.net,REJECT
+  - DOMAIN,iadmusicmatvideo.music.126.net,REJECT
+  # Netease Music
+  - RULE-SET,NeteaseMusicDomain,NeteaseUnlocker
+  - RULE-SET,NeteaseMusicIPcidr,NeteaseUnlocker
