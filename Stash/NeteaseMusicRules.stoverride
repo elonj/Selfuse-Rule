@@ -23,4 +23,4 @@ rules:
   - DOMAIN,iadmusicmatvideo.music.126.net,REJECT
   # Netease Music
   - RULE-SET,NeteaseMusicDomain,NeteaseUnlocker
-  - RULE-SET,NeteaseMusicIPcidr,NeteaseUnlocker
+  - RULE-SET,NeteaseMusicIPcidr,NeteaseUnlocker,no-resolve
