@@ -1,0 +1,2 @@
+[URL Rewrite]
+(^https?:\/\/[\w-]+\.googlevideo\.com\/(?!dclk_video_ads).+)&ctier=SH(&.+) 302 $1&ctier=A$2
