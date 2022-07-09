@@ -1,9 +1,6 @@
 [URL Rewrite]
 (^https?:\/\/[\w-]+\.googlevideo\.com\/(?!dclk_video_ads).+)&ctier=L(&.+) 302 $1&ctier=A$2
-(^https?:\/\/[\w-]+\.googlevideo\.com\/(?!dclk_video_ads).+)&ctier=SH(&.+) 302 $1&ctier=A$2
-
-# From https://raw.githubusercontent.com/Infatuation-Fei/rule/main/Stash/Rewrite/YouTubeAdblock.stoverride
-(^https?:\/\/[\w-]+\.googlevideo\.com\/(?!dclk_video_ads).+?)&ctier=L(&.+?),ctier,(.+) 302 $1$2$3
+# (^https?:\/\/[\w-]+\.googlevideo\.com\/(?!dclk_video_ads).+)&ctier=SH(&.+) 302 $1&ctier=A$2
 
 ^https://[\s\S]*\.googlevideo\.com/.*&(oad|ctier) reject-200
 ^https?:\/\/youtubei\.googleapis\.com\/youtubei\/.+ad_ reject
@@ -13,13 +10,6 @@
 ^https?:\/\/.+\.youtube\.com\/api\/stats\/.+adformat reject
 ^https?:\/\/.+\.youtube\.com\/pagead\/ reject
 ^https?:\/\/.+\.youtube\.com\/ptracking reject
-
-# From https://raw.githubusercontent.com/Infatuation-Fei/rule/main/Stash/Rewrite/YouTubeAdblock.stoverride
-^https?:\/\/[\w-]+\.googlevideo\.com\/(?!(dclk_video_ads|videoplayback\?)).+&oad reject
-^https?:\/\/youtubei\.googleapis\.com\/youtubei\/v\d\/player\/ad_break reject
-^https?:\/\/(www|s)\.youtube\.com\/api\/stats\/ads reject
-^https?:\/\/(www|s)\.youtube\.com\/(pagead|ptracking) reject
-^https?:\/\/s\.youtube\.com\/api\/stats\/qoe\?adcontext reject
 
 [MITM]
 hostname = *.googlevideo.com,youtubei.googleapis.com,s.youtube.com,www.youtube.com
