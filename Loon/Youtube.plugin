@@ -1,6 +1,6 @@
 [URL Rewrite]
 (^https?:\/\/[\w-]+\.googlevideo\.com\/(?!dclk_video_ads).+)&ctier=L(&.+) 302 $1&ctier=A$2
-# (^https?:\/\/[\w-]+\.googlevideo\.com\/(?!dclk_video_ads).+)&ctier=SH(&.+) 302 $1&ctier=A$2
+# (^https?:\/\/[\w-]+\.googlevideo\.com\/(?!dclk_video_ads).+)&ctier=[A-Z](&.+) 302 $1&ctier=A$2
 
 ^https://[\s\S]*\.googlevideo\.com/.*&(oad|ctier) reject-200
 ^https?:\/\/youtubei\.googleapis\.com\/youtubei\/.+ad_ reject
@@ -12,4 +12,4 @@
 ^https?:\/\/.+\.youtube\.com\/ptracking reject
 
 [MITM]
-hostname = *.googlevideo.com,youtubei.googleapis.com,s.youtube.com,www.youtube.com
+hostname = -redirector*.googlevideo.com,*.googlevideo.com,youtubei.googleapis.com,s.youtube.com,www.youtube.com
